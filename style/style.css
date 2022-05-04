@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+
+body{
+    background-color: #181818;
+}
+
+.canvas{
+    border: solid 5px #111111;
+    width: 500px;
+    height: 500px;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+}

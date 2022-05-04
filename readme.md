@@ -1,0 +1,3 @@
+# Maxwell equations: 2D simulator
+
+Work in progress...
