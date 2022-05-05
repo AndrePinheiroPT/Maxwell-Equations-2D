@@ -24,3 +24,12 @@ body{
     image-rendering: crisp-edges;
     image-rendering: -moz-crisp-edges;
 }
+
+.magCanvas{
+    border: solid 5px #111111;
+    width: 200px;
+    height: 200px;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+}
